@@ -1,0 +1,95 @@
++----+------------------------------------------+-------------+---------------+
+| No |               Nama Barang                |     Stok    |     Harga     |
++----+------------------------------------------+-------------+---------------+
+|1   | ABC Kopi Instant 10x31g                  |          34 |        17,300 |
+|2   | ABC Kopi Susu Instan 10x30g              |          65 |        16,800 |
+|3   | ABC Minuman Sari Kacang Hijau            |          78 |         5,300 |
+|4   | Adem Sari Ching Ku Lemon 350ml           |          66 |         9,000 |
+|5   | Aice Histeria Ice Cream Vanill           |          25 |         9,900 |
+|6   | Antangin 5x15ml                          |          28 |        19,000 |
+|7   | Aqua Air Mineral 1.5L                    |          76 |         6,700 |
+|8   | Basreng Pedas 120g                       |          65 |        14,700 |
+|9   | Baygon Insektisida Spray Citru           |          34 |        44,900 |
+|10  | Bear Brand Susu Steril 189ml             |          87 |        10,800 |
+|11  | Beng-Beng Wafer Chocolate Max            |          91 |         4,700 |
+|12  | Biore Relaxing Aromatic Sabun            |          87 |        13,900 |
+|13  | Cap lang Minyak Kayu Putih 30m           |          43 |        14,900 |
+|14  | Chitato Nori Seaweed 120gr               |          74 |        17,000 |
+|15  | Chitato Sapi Panggang 68g                |          99 |        12,500 |
+|16  | Cimory Yoghurt Squeeze                   |          73 |        10,200 |
+|17  | Clear Anti Dandruff Shampoo Me           |          98 |        15,500 |
+|18  | Cola-Cola Zero Sugar 250ml               |          43 |         6,200 |
+|19  | Cotton Buds Babby Refill 100 p           |         349 |         6,900 |
+|20  | Crystalin Air Mineral Pet 1.5L           |          45 |         5,500 |
+|21  | Dua Kelinci Kacang Garing 180g           |         123 |        20,900 |
+|22  | Fanta Soft Drink Strawberry 39           |          76 |         5,900 |
+|23  | Fitbar Snack Bar Fruit Delight           |         187 |         5,700 |
+|24  | Floridina Juice Pulp Orange 35           |          76 |         3,200 |
+|25  | Floridina Orange 350ml                   |         125 |         3,200 |
+|26  | Garuda Kacang Garing 350                 |          87 |        37,400 |
+|27  | Gillete Blue Plus Razor                  |          78 |        11,500 |
+|28  | Greenfields UHT Milk Full Crea           |          43 |        24,200 |
+|29  | Head&Shoulders Shampoo                   |          79 |        16,500 |
+|30  | Hemaviton Less Sugar Can 330ml           |          98 |         5,900 |
+|31  | Imboost Tablet 4 pcs                     |          65 |        19,300 |
+|32  | Indofood Sambal Ekstra Pedas 1           |          34 |         7,500 |
+|33  | Indomie Ayam bawang                      |          76 |         3,100 |
+|34  | Indomie Instan Premium Tori Mi           |         220 |         6,000 |
+|35  | Kapal Api Kopi Bubuk 380g                |          87 |        29,500 |
+|36  | Kenko Glue Stick 15g                     |          63 |         9,500 |
+|37  | Kinder Joy Chocolate 20g                 |          21 |        15,300 |
+|38  | Le minerale 1500ml                       |          63 |         6,500 |
+|39  | Lifebuoy Sabun Mandi Cair Red            |          98 |        20,100 |
+|40  | Magnum IceCream Vanilla Classi           |          86 |        18,200 |
+|41  | Maizenaku Corn Starch 150g               |          67 |         7,500 |
+|42  | Milkku Susu Strawberry 200ml             |         189 |         3,500 |
+|43  | Milo Go Original Kaleng 220              |          67 |        10,700 |
+|44  | Morin Selai Kaya Spread 170              |          40 |        21,000 |
+|45  | Nescafe Coffe Drink Latte 220m           |          42 |         7,300 |
+|46  | Nescafe Kopi Instant Classic 1           |          69 |         7,000 |
+|47  | Nescafe Mocha Ice Coffee 220ml           |          87 |        10,800 |
+|48  | Nice Facial Tissue 250 's                |          54 |        15,900 |
+|49  | Nissin Walens Choco Soes 100g            |         132 |        11,400 |
+|50  | Nutella Hazelnut Cocoa Spread            |          65 |        44,200 |
+|51  | Oishi Snack Sponge Crunch Choc           |          44 |        15,000 |
+|52  | Onigiri Ayam Mayo 100gr                  |          43 |        10,000 |
+|53  | Oskadon Tablet 4 pcs                     |          45 |         2,100 |
+|54  | Panadol Paracetamol 10 Kaplet            |          43 |        12,700 |
+|55  | Pepsodent Gentle Care Sikat Gi           |          89 |        10,500 |
+|56  | Pocari Sweat 2000ml                      |          55 |        23,900 |
+|57  | Poci Teh Hitam Celup Vanilla 2           |          93 |         6,900 |
+|58  | Pop Mie Instan Cup Bakso 75g             |          78 |         5,500 |
+|59  | Promag Tablet Kunyah 10 pcs              |          98 |         9,900 |
+|60  | Pronas Corned Beef 198g                  |          88 |        24,700 |
+|61  | Qtela Kripik Singkong Balado 6           |          54 |         7,800 |
+|62  | Quacker Instant Oatmeal Merah            |          76 |        14,500 |
+|63  | Regal Marie Biscuits Superior            |          65 |        13,500 |
+|64  | Rexona Men Deodorant  Roll On            |         124 |        25,900 |
+|65  | Rinso Molto Anti Noda Deterjen           |         122 |        10,000 |
+|66  | Roma Biscuit Sari Gandum                 |          67 |        10,500 |
+|67  | Roma Marie Gold 240g                     |          24 |        28,500 |
+|68  | Salonpas Koyo                            |           0 |        14,500 |
+|69  | Sangobion Suplemen                       |         123 |        22,200 |
+|70  | Sari Roti Sobek Coklat                   |          69 |        18,000 |
+|71  | Sari Roti Tawar Jumbo                    |          23 |        18,000 |
+|72  | Sasa Bumbu Serbaguna Original            |          87 |         6,900 |
+|73  | SHINZUI Skin Lightening Bar So           |         320 |         5,900 |
+|74  | Silver Queen Chonky Bar Milk C           |          89 |        25,900 |
+|75  | Snack Tortila Chips Merah 140g           |          34 |        11,500 |
+|76  | SOS Pembersih Lantai refill Ap           |          65 |        11,700 |
+|77  | Sosro Fruit Tea Blackcurrant 5           |          39 |         7,100 |
+|78  | Sprite Soft Drink 390ml                  |          78 |         5,900 |
+|79  | Strepsil Soothing Honey Lemon            |          87 |        21,700 |
+|80  | Tango Wafer Long Vanilla Milk            |          43 |         8,900 |
+|81  | Tebs Sparkling Soda Mix Fruit            |          87 |         8,300 |
+|82  | Teh Botol Sosro Less Sugar 350           |         143 |         3,900 |
+|83  | Teh Puuck Harum Less Sugar 350           |          43 |         3,900 |
+|84  | Tessa Facial Tissue 260's                |          76 |        23,700 |
+|85  | Tropical Minyak Goreng  2000 M           |          63 |        36,100 |
+|86  | Ultra susu UHT 200 ML                    |          62 |         6,300 |
+|87  | Whiskas Adult Ocean Fish Pouch           |          78 |         8,100 |
+|88  | Yakult 5x65 ML                           |          30 |        10,500 |
+|89  | Yakult Minuman Probiotik 5 pcs           |          61 |        10,500 |
+|90  | You C1000 Health Drink Vitamin           |          57 |         7,900 |
++----+------------------------------------------+-------------+---------------+
+
